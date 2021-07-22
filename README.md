@@ -13,7 +13,5 @@ I have user tabula library in order to read, extract data from pdf files which c
 
 **Dataset**
 
-pdf file looks like following (can not share the file as it is confidential)
-
-![y](https://user-images.githubusercontent.com/87409887/125752211-b7f5fe57-ae84-4364-a93d-abf61825681b.PNG)
+pdf file looks like following
 
